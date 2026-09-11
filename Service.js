@@ -59,3 +59,6 @@ async function generateChatResponse(historyMessages, userMessage) {
 module.exports = {
   generateChatResponse
 };
+
+AI_API_KEY=AQ.Ab8RN6IPJ4ZJvRlkRpmzh7pnQkShFDi2JvvbkBa5RRnfVcbxMQ
+AI_MODEL=google/gemma-4-31b-it:free
